@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 💻 My Tech Stack:
 
-[![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
+(https://skillicons.dev/icons?i=py,flask,docker,js,fastapi,postgres,mysql)](https://skillicons.dev)
 
 ## 🏆 My Stats:
 
